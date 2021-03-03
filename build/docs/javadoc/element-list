@@ -1,0 +1,6 @@
+com.example.mongodb
+com.example.mongodb.controller
+com.example.mongodb.dto
+com.example.mongodb.model
+com.example.mongodb.repository
+com.example.mongodb.service
